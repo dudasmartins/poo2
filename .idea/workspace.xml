@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42189670-2e8d-4d80-8ca2-cb34fc1f882e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Venndinha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cupom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/produto.java" afterDir="false" />
-    </list>
+    <list default="true" id="42189670-2e8d-4d80-8ca2-cb34fc1f882e" name="Changes" comment="Criada classes &quot;Estoque, Produto, Fornecedor, Cliente e Cupom&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +43,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664497539454</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criada classes &quot;Estoque, Produto, Fornecedor, Cliente e Cupom&quot;">
+      <created>1665026039220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665026039220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criada classes &quot;Estoque, Produto, Fornecedor, Cliente e Cupom&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada classes &quot;Estoque, Produto, Fornecedor, Cliente e Cupom&quot;" />
   </component>
 </project>
